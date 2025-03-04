@@ -26,8 +26,21 @@ Scrcpy GUI by TheGamingClinic is a user-friendly graphical interface for **Scrcp
 ✅ ADB & Scrcpy (included in the ZIP)  
 ✅ USB Debugging enabled on your phone  
 
-## **Screenshots**  
-*(Add screenshots of your GUI here to make it visually appealing!)*  
+## 📸 Screenshots  
+
+### 🏠 Home Screen  
+<img src="screenshots/home.png" width="60%">
+
+### 📂 File Menu & 📲 Screen Mirroring in Action  
+<p align="center">
+  <img src="screenshots/File_menu.png" width="48%">
+  <img src="screenshots/Screen_Mirroring.png" width="48%">
+</p>
+
+### 🎮 BGMI Preview  
+<img src="screenshots/BGMI_Preview.png" width="60%">
+
+ 
 
 ## **Contribute & Support**  
 👨‍💻 Found a bug or have a feature request? Feel free to open an [issue](https://github.com/Rajeev2191/Scrcpy_GUI_by_TheGamingClinic/issues).  
