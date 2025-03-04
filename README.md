@@ -30,6 +30,6 @@ Scrcpy GUI by TheGamingClinic is a user-friendly graphical interface for **Scrcp
 *(Add screenshots of your GUI here to make it visually appealing!)*  
 
 ## **Contribute & Support**  
-👨‍💻 Found a bug or have a feature request? Feel free to open an [issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues).  
+👨‍💻 Found a bug or have a feature request? Feel free to open an [issue](https://github.com/Rajeev2191/Scrcpy_GUI_by_TheGamingClinic/issues).  
 
 📢 Like this project? Give it a **⭐ Star** on GitHub!**  
